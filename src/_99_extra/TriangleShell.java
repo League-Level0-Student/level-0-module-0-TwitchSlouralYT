@@ -13,7 +13,7 @@ Robot bob=new Robot();
 		// write the code to draw a triangle.
 		
 		//drawTriangle(100); 
-
+drawTriangle(100);
 		// Run the program. Check that your triangle is the same as the first picture in the recipe.
 		// Remove the drawTriangle(100) from the program before you proceed.
 		
